@@ -1,4 +1,5 @@
 <h1 align="center">Quiz Interativo</h1>
+https://cintiasouzads.github.io/quizComBootstrap/
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -24,10 +25,6 @@
   <li><strong>JavaScript:</strong> Lógica do quiz e manipulação dos elementos</li>
   <li><strong>Bootstrap:</strong> Layout responsivo e componentes de interface</li>
 </ul>
-
-<h2>Como Utilizar</h2>
-
-
 
 <h2>Licença</h2>
 <p>Este projeto está licenciado sob a <a href="https://choosealicense.com/licenses/mit/" target="_blank">Licença MIT</a>.</p>
